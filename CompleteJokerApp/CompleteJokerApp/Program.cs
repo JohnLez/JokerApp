@@ -7,6 +7,7 @@ namespace CompleteJokerApp
     {
         static void Main(string[] args)
         {
+            //estc//test
             double prizepool = 0; //To keep track of previous draw funds
             bool run = true;      //Program loop operator
             while (run)
