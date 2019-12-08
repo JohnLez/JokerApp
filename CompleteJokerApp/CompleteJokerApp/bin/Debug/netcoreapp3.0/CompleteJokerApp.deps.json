@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CompleteJokerApp/1.0.0": {
+        "runtime": {
+          "CompleteJokerApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompleteJokerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

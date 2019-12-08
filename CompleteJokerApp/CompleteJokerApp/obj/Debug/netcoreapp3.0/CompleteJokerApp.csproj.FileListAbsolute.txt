@@ -1,0 +1,11 @@
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.exe
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.deps.json
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.runtimeconfig.json
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.runtimeconfig.dev.json
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.dll
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\bin\Debug\netcoreapp3.0\CompleteJokerApp.pdb
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\obj\Debug\netcoreapp3.0\CompleteJokerApp.csprojAssemblyReference.cache
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\obj\Debug\netcoreapp3.0\CompleteJokerApp.AssemblyInfoInputs.cache
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\obj\Debug\netcoreapp3.0\CompleteJokerApp.AssemblyInfo.cs
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\obj\Debug\netcoreapp3.0\CompleteJokerApp.dll
+C:\Users\John_\source\repos\CompleteJokerApp\CompleteJokerApp\obj\Debug\netcoreapp3.0\CompleteJokerApp.pdb
