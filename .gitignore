@@ -3,3 +3,9 @@
 ################################################################################
 
 /CompleteJokerApp/.vs/CompleteJokerApp/v16/Server/sqlite3/db.lock
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
